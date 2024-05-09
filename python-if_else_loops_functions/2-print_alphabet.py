@@ -1,4 +1,3 @@
 #!/usr/bin/python3
 
-for alph in range(97, 123):
-    print(chr(alph), end='')
+print(''.join(chr(letter) for letter in range(97, 123) if letter != 101 and letter != 113), end='')
