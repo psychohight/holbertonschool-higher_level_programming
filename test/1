@@ -1,0 +1,8 @@
+#!/usr/bin/python3
+
+wallet = 46.50
+item = 25
+
+wallet = wallet - item
+
+print(f"reste {wallet}")

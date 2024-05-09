@@ -1,0 +1,19 @@
+#!/usr/bin/python3
+
+age =int(input("entrez votre age "))
+
+
+if age <= 17:
+    total = 7
+else:
+    total = 12
+
+pop_corn = input("voulez vous du pop corn ? ")
+
+if pop_corn == "oui":
+    total += 5
+
+print(f"le total est {total}$")
+    
+
+
