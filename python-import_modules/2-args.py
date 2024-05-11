@@ -2,7 +2,6 @@
 import sys
 
 def print_arguments():
-    
     args = sys.argv[1:]
     num_args = len(args)
     
@@ -15,7 +14,6 @@ def print_arguments():
     
     for i, arg in enumerate(args, 1):
         print("{}: {}".format(i, arg))
-
 
 if __name__ == "__main__":
     print_arguments()
