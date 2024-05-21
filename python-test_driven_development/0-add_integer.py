@@ -1,10 +1,8 @@
 #!/usr/bin/python3
-"""
-This module is composed by a function that adds two numbers
+"""This module is composed by a function that adds two numbers
 """
 def add_integer(a, b=98):
-    """
-    add two integer or float
+    """add two integer or float
     a: first nbr
     b: second nbr
     return: a + b
