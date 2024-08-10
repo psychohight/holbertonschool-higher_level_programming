@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""
+My file is commented
+"""
 import sys
 import os
 

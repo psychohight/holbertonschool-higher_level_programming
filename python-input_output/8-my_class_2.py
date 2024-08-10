@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-""" My class module
 """
-
+My file is commented
+"""
 class MyClass:
     """ My class
     """

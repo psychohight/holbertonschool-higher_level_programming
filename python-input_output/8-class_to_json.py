@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+"""
+My file is commented
+"""
 
 def class_to_json(obj):
     """Return the dictionary representation
