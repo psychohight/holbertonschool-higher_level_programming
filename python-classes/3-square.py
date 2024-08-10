@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""
+My file is commented
+"""
 class Square:
     """ A class defines a square by its size
     """
