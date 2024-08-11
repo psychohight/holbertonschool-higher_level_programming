@@ -2,6 +2,8 @@
 """
 My file is commented
 """
+
+
 class MyClass:
     """ My class
     """

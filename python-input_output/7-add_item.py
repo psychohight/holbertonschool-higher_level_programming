@@ -2,6 +2,8 @@
 """
 My file is commented
 """
+
+
 import sys
 import os
 
@@ -18,6 +20,3 @@ else:
 items.extend(sys.argv[1:])
 
 save_to_json_file(items, filename)
-
-
-
