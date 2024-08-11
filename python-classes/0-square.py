@@ -2,6 +2,8 @@
 """
 My file is commented
 """
+
+
 class Square:
     """Class Square that defines a square.
     """
